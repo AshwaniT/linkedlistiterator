@@ -1,0 +1,6 @@
+C:\DS\linkedlistiterator\linkedlistiterator\bin\Debug\linkedlistiterator.exe.config
+C:\DS\linkedlistiterator\linkedlistiterator\bin\Debug\linkedlistiterator.exe
+C:\DS\linkedlistiterator\linkedlistiterator\bin\Debug\linkedlistiterator.pdb
+C:\DS\linkedlistiterator\linkedlistiterator\obj\Debug\linkedlistiterator.csprojResolveAssemblyReference.cache
+C:\DS\linkedlistiterator\linkedlistiterator\obj\Debug\linkedlistiterator.exe
+C:\DS\linkedlistiterator\linkedlistiterator\obj\Debug\linkedlistiterator.pdb
